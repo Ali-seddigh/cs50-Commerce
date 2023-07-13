@@ -1,0 +1,46 @@
+body {
+    padding: 10px;
+    padding-top: 65px;
+}
+
+.center {
+  vertical-align: middle;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  background-color: #eee;
+  border-radius: 3px;
+}
+
+.img {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.title {
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+}
+
+.error {
+    padding: 10px;
+    background-color: lightcoral;
+
+}
+
+.success {
+    padding: 10px;
+    background-color: lightgreen;
+
+}
+
+.container-sm {
+    width: 10%;
+}
+
